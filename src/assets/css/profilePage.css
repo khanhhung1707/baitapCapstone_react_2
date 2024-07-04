@@ -1,0 +1,19 @@
+.profile-header {
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .profile-header h1 {
+    margin: 0;
+  }
+  
+  .nav-tabs .nav-link.active {
+    background-color: #8e2de2;
+    border-color: #8e2de2;
+    color: white;
+  }
+  
